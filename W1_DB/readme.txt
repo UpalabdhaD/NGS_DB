@@ -1,0 +1,1 @@
+W1_DB folder contains the work1 of SDG Lab. The main interest behind this analysis was to compare gene expression change in human macrophage cells upon Palmitate and oxidized LDL (oxLDL) treatments. To this pupose we used two different GEO datasets i.e., GSExxxxx and GSExxxxx. 
